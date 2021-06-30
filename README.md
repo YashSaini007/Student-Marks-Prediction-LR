@@ -4,3 +4,7 @@ Predicting students' marks from their previous semester marks using Linear Regre
 Dataset used:- DTU students' 3rd and 4th semester marks are used (1500+ students).
 
 Performance measures used:- MAPE, MSE, RMSPE, R2 Score, MBE.
+
+---------------------------------------------------------------------------------------------
+
+Research paper in IEEE format and Presentation.
